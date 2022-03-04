@@ -21,5 +21,5 @@ Any dead cell with exactly three live neighbours becomes a live cell, as if by r
 
 The virus.py code simulates the spread of a virus. The population is represented by balls that bounce inside a box, colliding elastically and depending on certain parameters, they become infected and heal. The population is divided into three categories as in the SIR model. The animation can be shown directly at the end of execution (but has problems in saving), or built as for Game_of_life, that is, by combining various graphics
 
-![](plots/epi.gif)  
-![](plots/life.gif)
+![](epi.gif)  
+![](life.gif)
